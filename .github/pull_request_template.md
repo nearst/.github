@@ -1,4 +1,4 @@
-## 🕵🏼‍♀️ Scrutiny
+## 🕵🏼‍ Scrutiny
 <!-- What level of code review do you want? -->
 
 
@@ -15,7 +15,7 @@
 <!-- Explain why this PR is happening. -->
 
 
-## 👮‍♂️ Security?
+## 👮‍♀️ Security?
 <!-- Does your change require new IAMs eg Dynamodb actions? -->
 <!-- Do the IAMs grant the least privilege needed? -->
 <!-- Are secrets stored in secrets manager and named clearly? -->
