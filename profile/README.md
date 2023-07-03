@@ -1,4 +1,4 @@
-### Opening up the world’s local shop inventory to shoppers nearby
+### Opening up the world’s local inventory to nearby shoppers
 
 That's our mission at NearSt - which we do by tracking and processing millions of inventory changes on a 
 daily basis. Using this data, we help retailers do effective online marketing, gather new insights on what 
