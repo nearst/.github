@@ -1,4 +1,4 @@
-## 🕵🏼‍ Scrutiny
+## 🕵 Scrutiny
 <!-- What level of code review do you want? -->
 
 
