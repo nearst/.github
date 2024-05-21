@@ -1,33 +1,25 @@
-## 🕵 Scrutiny
-<!-- What level of code review do you want? -->
+## 🏋️ Brain score
 
-
-## 🧠 Mental state
 <!-- How sound of mind are you today - out of 5. (This includes hangover, feeling a bit icky, lack of sleep etc..) -->
-<!-- Basically how much do you trust yourself today, encourage people to double check things so we don't ship bugs -->
 
+## 🥗 What's cookin' good lookin'?
 
-## 🤯 WTF is going on?
-<!-- Explain what happens in this PR. -->
+<!-- Please give a brief summary of the changes you've made. -->
 
+## 🦹 What were your motives?
 
-## 🧐 But why?
-<!-- Explain why this PR is happening. -->
+<!-- Why did you choose to make these changes? -->
 
+## 🏎 Checklist
 
-## 👮‍ Security?
-<!-- Does your change require new IAMs eg Dynamodb actions? -->
-<!-- Do the IAMs grant the least privilege needed? -->
-<!-- Are secrets stored in secrets manager and named clearly? -->
+<!-- Please go over all the following points, and mark them with an `x` when you have done them. -->
 
+- [ ] IAM/Clerk permissions are correct
+- [ ] I have added tests that prove my fix is effective or that my feature works
+- [ ] Documentation is in place and up to date.
+- [ ] There are no console logs or leftover code in my changes.
+- [ ] Walk away champ, take a break champ, and re-read what you filled out above. Does it make sense if you were coming in cold champ? What extra context could you provide?
 
-## 😎 Any tests?
-<!-- If you don't have tests, should you add tests? -->
+## 📸 Screenshots (optional)
 
-
-## 🤓 Any documentation?
-<!-- Have you added any new or updated any existing documentation? -->
-
-
-## 🙃 Notes
-<!-- Anything to add! -->
+<!-- If applicable, add screenshots to help explain your changes. -->
